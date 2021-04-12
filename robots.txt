@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /README.md/
+Sitemap: https://okseek.github.io/sitemap.xml
